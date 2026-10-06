@@ -1,3 +1,7 @@
+---
+layout: page
+title: index
+---
 # Hola, soy Iker
 
 Esta es mi primera página web subida a GitHub.
