@@ -1,1 +1,6 @@
+title: My Documentation Site
+theme: minima
 
+header_pages:
+  -index.md
+  
