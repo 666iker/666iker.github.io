@@ -1,6 +1,6 @@
 ---
-layout: page
-title: index
+layout: home
+title: page
 ---
 # Hola, soy Iker
 
